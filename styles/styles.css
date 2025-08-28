@@ -7,3 +7,12 @@
 main{
     min-height: 100vh;
 }
+
+
+footer {
+    background-color: black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
